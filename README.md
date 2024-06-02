@@ -76,7 +76,7 @@ El resultado de convertir 100 USD a CLP es: 90031.67 CLP
 ```
 
 # Autor
-Octavio Isaías Benitez Morales
+Alejandro Arias
 
-**GitHub:** @tatokinneas
-**Email:** tatokinneas@gmail.com
+**GitHub:** Aariazp
+**Email:** alejo17ariazpzn@gmail.com
